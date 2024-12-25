@@ -1,5 +1,5 @@
 # Smart-Cart-System-in-EMU-8086-Assembly-Language
-It's a general or Smart cart System on an 8086 Assembly Language #COAL PROJECT
+It's a general or Smart cart System on a 8086 Assembly Language #COAL PROJECT
 Overview
 
 The Smart Cart System is a console-based shopping application written in x86 Assembly Language. It enables users to select products across various categories, specify quantities, and generate a bill summary. The project demonstrates the use of assembly language for implementing a functional and interactive system with features such as menu-driven navigation, input validation, and real-time computation of costs.
